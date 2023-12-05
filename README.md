@@ -4,7 +4,7 @@ This baseline submission is part of the Airlift Challenge,
 a competition in which participants must design agents that can plan and execute an airlift operation.
 This repository provides an example solution based on Mixed Integer Linear Programs as formulated in the following paper:
 
-   Dimitris Bertsimas, Allison Chang, Velibor V. Mi\v{s}i\'{c}, Nishanth Mundru (2019)
+   Dimitris Bertsimas, Allison Chang, Velibor V. Mišić, Nishanth Mundru (2019)
    The Airlift Planning Problem.
    Transportation Science.
    53 (3): 773-795.
