@@ -16,7 +16,7 @@ NOTE: As currently implemented, the solution will exceed the time limits, and is
 # Important links
 * For more information about the competition: see the [documentation](https://airlift-challenge.github.io/).
 * The simulator can be found [here](https://github.com/airlift-challenge/airlift)
-* For submissions and to participate in the discussion board: see the [competition platform on CodaLab][codalab]
+* For submissions and to participate in the discussion board: see the [competition platform on CodaLab](https://codalab.lisn.upsaclay.fr/competitions/16103)
 
 
 ## Setup for local evaluation
