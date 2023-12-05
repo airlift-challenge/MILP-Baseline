@@ -1,4 +1,4 @@
-name: airlift-solution
+name: milp-solution
 channels:
   - conda-forge
   - defaults
@@ -10,3 +10,4 @@ dependencies:
       # For debugging purposes, you may want to comment out the following line and instead install the airlift package
       # from source as described in the README at https://github.com/airlift-challenge/airlift
       - git+https://github.com/airlift-challenge/airlift
+      - pyomo==6.6.2
