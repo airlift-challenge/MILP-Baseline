@@ -36,3 +36,4 @@ Inside this repo, do the following:
    ```
    python run_custom_scenario.py
    ``` 
+Distribution Statement A: Approved for Public Release; Distribution Unlimited; Case Number AFRL-2023-6282 , CLEARED ON 13 Dec, 2023
